@@ -1,0 +1,6 @@
+Script python para extraer texto de archivos PSD (Adobe Photop)
+
+No funciona con: Caracteres no utf-8: Aparecen caracteres extraños
+Texto con formato: No probado
+
+
