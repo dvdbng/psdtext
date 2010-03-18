@@ -1,4 +1,4 @@
-Script python para extraer texto de archivos PSD (Adobe Photop)
+Script python para extraer texto de archivos PSD (Adobe Photoshop)
 
 No funciona con: Caracteres no utf-8: Aparecen caracteres extraños
 Texto con formato: No probado
